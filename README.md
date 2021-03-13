@@ -2,9 +2,9 @@
  
  # Unidad de Victimas - Subdirección Red Nacional de Información - Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  
- A continuacion se define una estructura para documentar este primer README, el cual es introductorio sobre el repositorio
  
-# ¿Qué es el proyecto?
+ 
+# ¿Qué es el proyecto Bitácora Diaria de Eventos?
 
 La Bitácora Diaria de Eventos (BDE) es un proyecto que busca la recolección diaria de noticias sobre conflicto armado colombiano en más de 40 fuentes de información de medios de comunicación digitales a nivel nacional como por ejemplo periódicos, emisoras de radio, revistas, etc. 
 Las noticias objetivo deben ser relacionadas con todos aquellos hechos de victimización de la población de país y disponerlas como insumos de información para mejorar el tiempo de respuesta y prevenir y/o atender estos hechos de una manera oportuna por parte de las áreas misionales de la Unidad para las Victimas. 
