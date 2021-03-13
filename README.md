@@ -6,7 +6,9 @@
  
 # ¿Qué es el proyecto?
 
-En esta area va una descripción breve del proyecto, sus caracteristicas y funcionamiento. 
+La Bitácora Diaria de Eventos (BDE) es un proyecto que busca la recolección diaria de noticias sobre conflicto armado colombiano en más de 40 fuentes de información de medios de comunicación digitales a nivel nacional como por ejemplo periódicos, emisoras de radio, revistas, etc. 
+Las noticias objetivo deben ser relacionadas con todos aquellos hechos de victimización de la población de país y disponerlas como insumos de información para mejorar el tiempo de respuesta y prevenir y/o atender estos hechos de una manera oportuna por parte de las áreas misionales de la Unidad para las Victimas. 
+Para obtener toda esta información de contexto se usarán metodologías de Ciencia de Datos tales como Web Scraping conjugada con Inteligencia Artificial para inferir las noticias adecuadas para la aplicación de la política pública de Victimas.
 
 # ¿Qué queremos en este proyecto?
 
