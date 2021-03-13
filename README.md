@@ -1,4 +1,4 @@
- ![DataLOGO](App/logdat.JPG)
+ ![DataLOGO](App/Logo SRNI.JPG)
  
  # Unidad de Victimas - Subdirección Red Nacional de Información - Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  
