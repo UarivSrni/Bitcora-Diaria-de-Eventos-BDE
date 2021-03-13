@@ -1,6 +1,6 @@
  ![DataLOGO](App/logdat.JPG)
  
- # Ésta es una estructura de directorio de proyecto general para la publicacion de resultados de los proyectos pilotos.
+ # Unidad de Victimas - Subdirección Red Nacional de Información - Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  
  A continuacion se define una estructura para documentar este primer README, el cual es introductorio sobre el repositorio
  
