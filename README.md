@@ -6,13 +6,12 @@
  
 # ¿Qué es el proyecto Bitácora Diaria de Eventos?
 
-La Bitácora Diaria de Eventos (BDE) es un proyecto que busca la recolección diaria de noticias sobre conflicto armado colombiano en más de 40 fuentes de información de medios de comunicación digitales a nivel nacional como por ejemplo periódicos, emisoras de radio, revistas, etc. 
-Las noticias objetivo deben ser relacionadas con todos aquellos hechos de victimización de la población de país y disponerlas como insumos de información para mejorar el tiempo de respuesta y prevenir y/o atender estos hechos de una manera oportuna por parte de las áreas misionales de la Unidad para las Victimas. 
-Para obtener toda esta información de contexto se usarán metodologías de Ciencia de Datos tales como Web Scraping conjugada con Inteligencia Artificial para inferir las noticias adecuadas para la aplicación de la política pública de Victimas.
+La Bitácora Diaria de Eventos (BDE) es un proyecto de Ciencia de Datos articulado entre la Unidad de Víctimas y Mintic que busca la recolección diaria de noticias sobre conflicto armado colombiano de tal manera que se dispongan como insumos para tomar decisiones en el desarrollo de la misionalidad de la Unidad y así fortalecer la aplicación de la política pública de Víctimas.
+
 
 # ¿Qué queremos en este proyecto?
 
-En esta area se especifica los objetivos y el alcance del proyecto.
+Obtener información de contexto, aplicando la ciencia de datos, de eventos de victimización relacionados con la dinámica de violencia que ocurran en cualquier lugar del país a partir de diversas fuentes de información digital, estructuradas y no estructurados, como, por ejemplo: periódicos de cobertura nacional, emisoras de radio, sitios web especializados, redes sociales y la información proveniente de las entidades que participan en la Ruta de Atención Asistencia y Reparación Integral a las Victimas. Esta información comprende, entre otras, variables relacionadas con la actividad armada de grupos ilegales, violencia a los Derechos Humanos e Infracciones al DIH, Alertas Tempranas de la Defensoría del Pueblo, acciones institucionales relacionadas con la confrontación armada y otros hechos relevantes sobre la situación de violencia en el país asociada al conflicto y variables de victimización y estadísticas institucionales de la Unidad de Víctimas.
 
 # Contenido del repositorio
 
