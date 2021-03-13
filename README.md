@@ -1,4 +1,4 @@
- ![DataLOGO](App/Logo SRNI.JPG)
+<img src="/App/Logo SRNI.PNG" alt="My cool logo"/>
  
  # Unidad de Victimas - Subdirección Red Nacional de Información - Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  
