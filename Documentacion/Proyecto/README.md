@@ -2,7 +2,7 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-## Carpeta para alojar documentos e informes de proyectos para un proyecto de ciencia de datos
+## Carpeta para alojar documentos e informes del proyecto
 
 Estos pueden ser:
 
