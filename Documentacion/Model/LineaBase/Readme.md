@@ -2,7 +2,7 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-## informe del modelo de línea de base
+## Informe del modelo de línea de base
 
 _El modelo de línea base es el modelo que un científico de datos capacitaría y evaluaría rápidamente después de tener el primer conjunto de características (preliminar) listo para el modelado de aprendizaje automático. A través de la construcción del modelo de línea de base, el científico de datos puede tener una evaluación rápida de la viabilidad de la tarea de aprendizaje automático.
 
