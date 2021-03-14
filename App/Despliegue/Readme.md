@@ -2,7 +2,7 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-# Esta carpeta contiene informacion de los diferentes despliegues realizados
+## Esta carpeta contiene informacion de los diferentes despliegues realizados
 
 
 La creación de un modelo, su analisis y pruebas no son necesariamente el final del proyecto.
