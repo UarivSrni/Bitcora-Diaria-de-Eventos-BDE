@@ -2,6 +2,6 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-## Contenido
+## Códigos fuentes
 ## Código fuente de tableros de despliegue
 ## Código fuente de Web Scraping de busqueda de noticias
