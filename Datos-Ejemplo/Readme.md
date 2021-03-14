@@ -1,5 +1,7 @@
 <img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
+# Proyecto: Bitácora Diaria de Eventos (BDE)
+
 Cuando hablamos de Big Data nos referimos a conjuntos de datos o combinaciones de conjuntos de datos
 cuyo tamaño (volumen), complejidad (variabilidad) y velocidad de crecimiento (velocidad) dificultan
 su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales,
