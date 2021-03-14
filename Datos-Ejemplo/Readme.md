@@ -1,4 +1,4 @@
-<img src="/App/Unidad.jpg" alt="Subdirección Red Nacional de Informacion"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 Cuando hablamos de Big Data nos referimos a conjuntos de datos o combinaciones de conjuntos de datos
 cuyo tamaño (volumen), complejidad (variabilidad) y velocidad de crecimiento (velocidad) dificultan
