@@ -1,4 +1,6 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
+
+# Proyecto: Bitácora Diaria de Eventos (BDE)
 
 # Esta carpeta contiene la información de las fuente de datos o los orígenes desde donde se extrae la información y su comprensión de datos (análisis exploratorio).
 
