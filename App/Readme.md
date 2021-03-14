@@ -2,7 +2,7 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-# Carpeta Donde se aloja el codigo del proyecto
+## Carpeta Donde se aloja el codigo del proyecto
 
 Esta carpeta aloja todo el código para el proyecto Bitácora Diaria de Eventos
 Tiene tres subcarpetas, 
