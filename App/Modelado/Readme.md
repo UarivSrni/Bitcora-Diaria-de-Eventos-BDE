@@ -2,5 +2,5 @@
 
 # Proyecto: Bitácora Diaria de Eventos (BDE)
 
-# Esta carpeta contiene código para modelado de la informacion y actividades relacionadas.
+## Esta carpeta contiene código para modelado de la informacion y actividades relacionadas.
 
