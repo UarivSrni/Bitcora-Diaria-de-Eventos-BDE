@@ -1,7 +1,8 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
+# Proyecto: Bitácora Diaria de Eventos (BDE)
 
-# Carpeta para alojar documentos e informes de proyectos para un proyecto de ciencia de datos
+## Carpeta para alojar documentos e informes de proyectos para un proyecto de ciencia de datos
 
 Estos pueden ser:
 
