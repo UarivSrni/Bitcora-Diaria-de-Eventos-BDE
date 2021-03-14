@@ -1,5 +1,7 @@
 <img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
+# Proyecto: Bitácora Diaria de Eventos (BDE)
+
 # Esta carpeta contiene informacion de los diferentes despliegues realizados
 
 
