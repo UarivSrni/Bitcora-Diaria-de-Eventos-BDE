@@ -19,10 +19,9 @@ Obtener información de contexto, aplicando la ciencia de datos, de eventos de v
 
 En esta parte se especifica la estructura de carpetas del repositorio y una descripción breve de cada una a manera de índice.
 
-1. App                   carpeta para el Código del proyecto: 
-   Contiene los códigos de los algoritmos de Web Scraping, para la busqueda de las noticias, junto con los algoritmos de inteligencia artificial usados para su clasificación y disposición.
-   
-2. Datos de Ejemplo      Carpeta donde se alojan ejemplos de los datos, tanto lo iniciales (fuentes de Datos), como los finales o los obtenidos (procesados)
+1. App                   carpeta para el Código del proyecto. 
+    
+2. Datos de Ejemplo      Carpeta donde se alojan ejemplos de los datos, tanto lo iniciales (fuentes de Datos), como los finales o los obtenidos (procesados).
 
 3. Documentación         Carpeta que contiene toda la documentación del Proyecto.
 
