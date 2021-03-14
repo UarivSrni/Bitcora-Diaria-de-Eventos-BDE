@@ -1,6 +1,8 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
-# Diccionario de datos
+# Proyecto: Bitácora Diaria de Eventos (BDE)
+
+## Diccionario de datos
 
 Es el conjunto de definiciones que contiene las características lógicas y puntuales de los datos
 que se van a utilizar en el sistema  o proyecto, incluyendo: 
