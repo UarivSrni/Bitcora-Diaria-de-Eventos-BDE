@@ -1,6 +1,8 @@
 <img src="/App/Unidad.jpg" alt="Subdirección Red Nacional de Informacion"/>
  
- # Unidad de Victimas - Subdirección Red Nacional de Información - Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
+ # Unidad de Victimas para las Atención y Reparación a las Víctimas 
+ # Subdirección Red Nacional de Información
+ # Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  
  
  
