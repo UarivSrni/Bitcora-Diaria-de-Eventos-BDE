@@ -1,6 +1,8 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
-# Fuentes de Datos
+# Proyecto: Bitácora Diaria de Eventos (BDE)
+
+## Fuentes de Datos
 
 Son todas estas fuentes que fueron utilizadas, para la creacion del modelo.
 
