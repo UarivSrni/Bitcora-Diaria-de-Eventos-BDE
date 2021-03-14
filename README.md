@@ -1,7 +1,7 @@
 <img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
  
  # Unidad para las Atención y Reparación Integral a las Víctimas
- ## Subdirección Red Nacional de Información - SRNI
+ ## Subdirección Red Nacional de Información (SRNI)
  ### Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
  #
   
