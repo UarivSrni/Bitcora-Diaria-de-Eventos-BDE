@@ -1,7 +1,6 @@
 <img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
-
  
-# Carpeta para alojar todos los documentos de un proyecto
+## Carpeta para alojar todos los documentos del proyecto
 
 Los documentos contendrán información sobre lo siguiente
 
