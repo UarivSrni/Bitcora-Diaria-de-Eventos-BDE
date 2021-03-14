@@ -1,4 +1,4 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
  
 # Carpeta para alojar todos los documentos de un proyecto
