@@ -1,10 +1,10 @@
 <img src="/App/Unidad.jpg" alt="Subdirección Red Nacional de Informacion"/>
  
- # Unidad de Victimas para las Atención y Reparación a las Víctimas 
- # Subdirección Red Nacional de Información
+ # Unidad para las Atención y Reparación Integral a las Víctimas 
+ # Subdirección Red Nacional de Información - SRNI
  # Proyecto: BITACORA DIARIA DE EVENTOS (BDE)
- 
- 
+ #
+  
  
 # ¿Qué es el proyecto Bitácora Diaria de Eventos?
 
