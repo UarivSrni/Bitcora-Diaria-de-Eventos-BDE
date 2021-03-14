@@ -1,4 +1,4 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 # Informe final del modelo
 _Informe que describe el modelo final que se entregará, generalmente compuesto por uno o más de los modelos construidos durante la vida del proyecto_
