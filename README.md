@@ -26,13 +26,13 @@ En esta parte se especifica la estructura de carpetas del repositorio y una desc
 3. Documentación         Carpeta que contiene toda la documentación del Proyecto.
 
 # Mockups
-# Tablero 1: Hechos por Tipo de Evento y Hechos por Municipio
+## Tablero 1: Hechos por Tipo de Evento y Hechos por Municipio
 <img src="/App/Despliegue1.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
-# Tablero 2: Hechos por Municipio - Mapa
+## Tablero 2: Hechos por Municipio - Mapa
 <img src="/App/Despliegue2.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
-# Tablero 3: Noticias por Fuente, Categoría y Tipo
+## Tablero 3: Noticias por Fuente, Categoría y Tipo
 <img src="/App/Despliegue3.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 
