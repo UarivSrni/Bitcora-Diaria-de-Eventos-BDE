@@ -1,6 +1,8 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 # Esta carpeta contiene informacion de los diferentes despliegues realizados
+
+<img src="/App/Despliegue1.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 La creación de un modelo, su analisis y pruebas no son necesariamente el final del proyecto.
 Se debe organizar el conocimiento adquirido gracias al proceso de minería de datos y presentarlo 
