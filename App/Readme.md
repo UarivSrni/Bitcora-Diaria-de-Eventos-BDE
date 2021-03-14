@@ -1,4 +1,4 @@
-<img src="/App/Unidad.jpg" alt="Subdirección Red Nacional de Informacion"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
 # Carpeta Donde se aloja el codigo del proyecto
 
