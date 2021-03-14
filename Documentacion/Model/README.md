@@ -1,6 +1,8 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
 
-# Carpeta para alojar todos los documentos e informes relacionados con el modelado
+# Proyecto: Bitácora Diaria de Eventos (BDE)
+
+## Carpeta para alojar todos los documentos e informes relacionados con el modelado
 
 # Informe final del modelo
 _Informe que describe el modelo final que se entregará, generalmente compuesto por uno o más de los modelos construidos durante la vida del proyecto_
