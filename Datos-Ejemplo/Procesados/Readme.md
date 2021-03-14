@@ -1,4 +1,6 @@
-<img src="/App/logdat.JPG" alt="My cool logo"/>
+<img src="/App/UnidadSrni.jpg" alt="Subdirección Red Nacional de Informacion"/>
+
+# Proyecto: Bitácora Diaria de Eventos (BDE)
 
 ## Lista de datasets procesados
 
